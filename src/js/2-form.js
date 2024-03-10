@@ -1,3 +1,5 @@
+"use strict";
+
 const feedbackForm = document.querySelector('.feedback-form');
 
 const storedData =
